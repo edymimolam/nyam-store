@@ -212,7 +212,6 @@ export default function Food({
     hoverRef,
     isMoreThanOneHoverOverSelected,
   ] = useMoreThanOneHoverOverSelected(isSelected);
-  console.log("isMoreThanOneHoverOverSelected", isMoreThanOneHoverOverSelected);
 
   const toggleIsSelected = () => setIsSelected((isSelected) => !isSelected);
 
