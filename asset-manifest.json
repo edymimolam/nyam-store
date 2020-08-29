@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/nyam-store/static/js/main.eb795539.chunk.js",
-    "main.js.map": "/nyam-store/static/js/main.eb795539.chunk.js.map",
+    "main.js": "/nyam-store/static/js/main.ed354f39.chunk.js",
+    "main.js.map": "/nyam-store/static/js/main.ed354f39.chunk.js.map",
     "runtime-main.js": "/nyam-store/static/js/runtime-main.0da3796d.js",
     "runtime-main.js.map": "/nyam-store/static/js/runtime-main.0da3796d.js.map",
     "static/js/2.e0b463ea.chunk.js": "/nyam-store/static/js/2.e0b463ea.chunk.js",
     "static/js/2.e0b463ea.chunk.js.map": "/nyam-store/static/js/2.e0b463ea.chunk.js.map",
     "index.html": "/nyam-store/index.html",
-    "precache-manifest.712439221d2cac0d950078ad12bcac45.js": "/nyam-store/precache-manifest.712439221d2cac0d950078ad12bcac45.js",
+    "precache-manifest.1284ab0217ac1088930432212a3b7ad1.js": "/nyam-store/precache-manifest.1284ab0217ac1088930432212a3b7ad1.js",
     "service-worker.js": "/nyam-store/service-worker.js",
     "static/js/2.e0b463ea.chunk.js.LICENSE.txt": "/nyam-store/static/js/2.e0b463ea.chunk.js.LICENSE.txt",
     "static/media/Exo2.0-Thin.otf": "/nyam-store/static/media/Exo2.0-Thin.44bde874.otf",
@@ -17,6 +17,6 @@
   "entrypoints": [
     "static/js/runtime-main.0da3796d.js",
     "static/js/2.e0b463ea.chunk.js",
-    "static/js/main.eb795539.chunk.js"
+    "static/js/main.ed354f39.chunk.js"
   ]
 }
